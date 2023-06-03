@@ -3,7 +3,7 @@
 
 ### :eyes: Label
 
-`热爱分享` `终身成长`    
+`乐于助人` `终身成长`    
 
 
 ### :pushpin: Project
