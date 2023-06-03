@@ -8,12 +8,9 @@
 
 ### :pushpin: Project
 
-**值得推荐的作品**
-
 > 造数工具 [https://github.com/wintercoder/datamaker](https://github.com/wintercoder/datamaker)
 
 ### 💬 About Me
-**其他了解我的渠道：**  
 
 > 知乎：[https://www.zhihu.com/people/wintercoder/posts](https://www.zhihu.com/people/wintercoder/posts) 记录生活指南     
 > CSDN： [https://blog.csdn.net/u012469987](https://blog.csdn.net/u012469987)  工作太忙，停更很久了   
