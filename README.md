@@ -12,9 +12,9 @@
 
 ### 💬 About Me
 
-> 知乎：[https://www.zhihu.com/people/wintercoder/posts](https://www.zhihu.com/people/wintercoder/posts) 记录生活指南     
-> CSDN： [https://blog.csdn.net/u012469987](https://blog.csdn.net/u012469987)  工作太忙，停更很久了   
-> 公众号： [某科学的程序员](https://img-blog.csdnimg.cn/20210123120301316.png) 记录个人故事与成长(年更）    
+> CSDN： [https://blog.csdn.net/u012469987](https://blog.csdn.net/u012469987)  停更很久了   
+> 知乎：[https://www.zhihu.com/people/wintercoder/columns](https://www.zhihu.com/people/wintercoder/columns) 分享生活指南     
+> 公众号： [某科学的程序员](https://img-blog.csdnimg.cn/20210123120301316.png) 记录个人故事(年更）    
 
 ### ⚡ Recent State
 ![曾也想仗剑走江湖，后来工作太忙](https://m.yh31.com/tp/ml/202010231556190442.jpg)  
