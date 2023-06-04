@@ -12,7 +12,7 @@
 
 ### 💬 About Me
 
-> CSDN： [https://blog.csdn.net/u012469987](https://blog.csdn.net/u012469987)  停更很久了   
+> CSDN： [https://blog.csdn.net/u012469987](https://blog.csdn.net/u012469987)  技术相关，但停更很久了   
 > 知乎：[https://www.zhihu.com/people/wintercoder/columns](https://www.zhihu.com/people/wintercoder/columns) 分享生活指南     
 > 公众号： [某科学的程序员](https://img-blog.csdnimg.cn/20210123120301316.png) 记录个人故事(年更）    
 
